@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/hdavis44](https://troopl.com/hdavis44)
 
-- 📫 How to reach me **henryo.davis@gmail.com**
+- 📫 You can reach me at **henryo.davis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
