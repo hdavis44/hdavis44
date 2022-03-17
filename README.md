@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Advanced SQL, Looker, and Tableau**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/hdavis44](https://troopl.com/hdavis44)
+- 👨‍💻 All of my projects are available at [troopl.com/hdavis44](https://troopl.com/hdavis44)
 
 - 📫 You can reach me at **henryo.davis@gmail.com**
 
