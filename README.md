@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
-<h3 align="center">A junior data analyst in Amsterdam</h3>
+<h3 align="center">A Junior Data Analyst in Amsterdam</h3>
 
 - 🌱 I’m currently learning **Advanced SQL, Looker, and Tableau**
 
