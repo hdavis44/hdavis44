@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
-<h3 align="center">An aspiring Data Engineer in Amsterdam</h3>
+<h3 align="center">A junior data analyst in Amsterdam</h3>
 
 - 🌱 I’m currently learning **CI/CD and GCP Engineering**
 
