@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
 <h3 align="center">A junior data analyst in Amsterdam</h3>
 
-- 🌱 I’m currently learning **CI/CD and GCP Engineering**
+- 🌱 I’m currently learning **Advanced SQL, Looker, and Tableau**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/hdavis44](https://troopl.com/hdavis44)
 
