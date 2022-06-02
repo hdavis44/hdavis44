@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
 <h3 align="center">A Junior Data Analyst in Amsterdam</h3>
 
-- 🌱 I’m currently learning **Advanced SQL, Looker, and Tableau**
+- 🌱 I’m currently learning **Advanced SQL, Tableau, and MongoDB**
 
 - 👨‍💻 All of my projects are available at [troopl.com/hdavis44](https://troopl.com/hdavis44)
 
