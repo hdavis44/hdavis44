@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Talend, PowerBI, and MongoDB**
 
-- 👨‍💻 All of my projects are available at [troopl.com/hdavis44](https://troopl.com/hdavis44)
-
 - 📫 You can reach me at **henryo.davis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
