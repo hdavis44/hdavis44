@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
 <h3 align="center">A Data Engineer in Amsterdam</h3>
 
-- 🌱 I’m currently learning **Talend, PowerBI, and MongoDB**
-
-- 📫 You can reach me at **henryo.davis@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hdavis44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hdavis44" height="30" width="40" /></a>
