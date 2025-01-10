@@ -6,7 +6,7 @@
 <p align="left">In the Netherlands I worked as a data engineer consultant with multiple responsibilities:  
 <ul style="list-style-type:disc;">
   <li>leading our company's AI Task Force to bring custom ML and AI models to our clients</li>
-  <li>teaching data science and data analytics for a tech boot camp in Amsterdam</li>
+  <li>teaching data science and data analytics at a tech boot camp in Amsterdam</li>
   <li>developing ELT pipelines and DV2.0 data warehousing</li>
   <li>building custom ERP data integrations</li>
 </ul>
