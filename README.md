@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
-<h3 align="left">A Data Wizard with a BA in economics and German and eight years of experience in the world of data</h3>
+<h3 align="left">A Data Wizard with a BA in economics and German and eight years of data experience</h3>
 
 <p align="left">I recently returned to the US after living and working in the Netherlands for three years. In the Netherlands I worked as a data engineer consultant in roles which varied from leading our company's AI Task Force to bring custom ML and AI models to our clients, teaching data science and data analytics for a tech boot camp in Amsterdam, developing ELT pipelines and DV2.0 data warehousing, and building custom ERP data integrations. I am a true data generalist, and if I haven't worked with your specific tool, I have at least got some experience on a similar one and know just where it fits in the grand scheme of data.</p>
 
