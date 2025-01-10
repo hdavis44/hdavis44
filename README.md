@@ -12,7 +12,7 @@
 </ul>
 I am a true data generalist, and if I haven't worked with your specific tool, I have at least some experience on a similar one and know right where it fits in the grand scheme of data.</p>
 
-<p align="left">I am currently looking for my next role where I hope to put my hard mind and soft heart to a good use. I want to create real impact and positive change. It would be a great bonus if I put my skills to use for climate change or social impact. If you are looking for a data wizard who is up to any challenge, works well with diverse teams and stakeholders, and has a knack for teaching and communicating everything data, I'm your guy!</p>
+<p align="left">I am currently looking for my next role where I hope to put my hard mind and soft heart to a good use. It would be a great bonus if I could put my skills to use for a company focused on climate change or social impact. If you are looking for a data wizard who is up to any challenge, works well with diverse teams and stakeholders, and has a knack for teaching and communicating everything data, I'm your guy!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
