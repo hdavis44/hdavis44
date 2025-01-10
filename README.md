@@ -4,10 +4,12 @@
 <p align="left">I recently returned to the US after living and working in the Netherlands for three years.</p> 
   
 <p align="left">In the Netherlands I worked as a data engineer consultant with multiple responsibilities:  
--leading our company's AI Task Force to bring custom ML and AI models to our clients,  
--teaching data science and data analytics for a tech boot camp in Amsterdam,  
--developing ELT pipelines and DV2.0 data warehousing,  
--and building custom ERP data integrations.  
+<ul style="list-style-type:disc;">
+  <li>leading our company's AI Task Force to bring custom ML and AI models to our clients</li>
+  <li>teaching data science and data analytics for a tech boot camp in Amsterdam</li>
+  <li>developing ELT pipelines and DV2.0 data warehousing</li>
+  <li>building custom ERP data integrations</li>
+</ul>
 I am a true data generalist, and if I haven't worked with your specific tool, I have at least some experience on a similar one and know just where it fits in the grand scheme of data.</p>
 
 <p align="left">I am currently looking for my next role where I hope to put my hard mind and soft heart to a good use. I want to create real impact and positive change. It would be a great bonus if I put my skills to use for climate change or social impact. If you are looking for a data wizard who is up to any challenge, works well with diverse teams and stakeholders, and has a knack for teaching and communicating everything data, I'm your guy!</p>
